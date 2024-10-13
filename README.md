@@ -1,6 +1,6 @@
 # testAmartha
 
-- First, got to api folder
+- First, go to api folder
 - Npm i
 - Run Command : npm test -- --tags=@all
 
